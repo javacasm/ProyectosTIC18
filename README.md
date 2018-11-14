@@ -1,5 +1,15 @@
 #  PROYECTOS TIC INTERNIVELARES 2018/19 ([191811GE050](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/191811GE050/))
 
+## CEP de Granada
+
+## José Antonio Vacas  @javacasm
+
+![CC](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
+
+
+## [https://github.com/javacasm/ProyectosTIC18](https://github.com/javacasm/ProyectosTIC18)
+
+
 ## Objetivos
 
 
@@ -22,7 +32,7 @@
 
 ## Descripción
 
-Este curso plantea un acercamiento al profesorado de las distintas etapas de enseñanzas no universitarias a las distintas posibilidades que nos ofrecen las tecnologías educativas para su implementación en el aula o centro. Con el asesoramiento oportuno y el prestamo de equipamiento necesario el profesorado podrá llevar a cabo proyectos educativos que permitan una mejor integración de los distintos currículos. De esta
+Este curso plantea un acercamiento al profesorado de las distintas etapas de enseñanzas no universitarias a las distintas posibilidades que nos ofrecen las tecnologías educativas para su implementación en el aula o centro. Con el asesoramiento oportuno y el prestamo de equipamiento necesario el profesorado podrá llevar a cabo proyectos educativos que permitan una mejor integración de los distintos currículos. 
 
 ## METODOLOGÍA 
 - Sesión inicial: Proyectos
@@ -33,10 +43,27 @@ Dado que el objetivo del curso es que los docentes desarrollen sus propios proye
 
 ## Sesiones
 
-|Fecha|	Hora de inicio|	Hora de fin|	Lugar de realización
-|---|---|---|---|---
+|Fecha|Hora de inicio|Hora de fin|Lugar de realización
+|---|---|---|---|
 |14/11/2018|	17:30|	20:30|	Aula 12
 |20/11/2018|	17:00|	20:00|	Aula 12
 |11/12/2018|	17:00|	20:00|	Aula 12
+
+## [Presentacioón](./presentacion.md)
+
+## [Motivación](./Motivacion.md)
+
+## [Alternativas](./Alternativas.md)
+
+## [Proyectos](./Proyectos.md)
+
+## [Ideas](./Ideas.md)
+
+
+## Referencias
+* [Moodle del curso](http://educacionadistancia.juntadeandalucia.es/profesorado/course/view.php?id=1534)
+* [Curso de impresión 3D](https://github.com/javacasm/Dise-oImpresion3D)
+* [Curso Básico de Arduino](https://github.com/javacasm/ArduinoBasicoCEPCordoba)
+* [Curso Avanzado de Arduino](href="https://github.com/javacasm/ArduinoAvanzadoDE2015)
 
 
